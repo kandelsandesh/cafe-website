@@ -16,7 +16,8 @@ function Where() {
 
             <iframe
               className="h-[400px] my-7"
-              src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14131.695215660378!2d85.3355411!3d27.6887498!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb198e08005e83%3A0xc9da05a7a520d4d3!2sLogic%20Tech%20Nepal!5e0!3m2!1sen!2snp!4v1696478972067!5m2!1sen!2snp"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2541.7385944027474!2d81.59471578690739!3d28.60249491411914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39a289bbedffb7cf%3A0xaf67970bb8b0efdd!2sSandesh%20Cafe!5e0!3m2!1sen!2snp!4v1696556302410!5m2!1sen!2snp" 
+               
               width="100%"
               height="450"
               style={{ border: 0 }}
